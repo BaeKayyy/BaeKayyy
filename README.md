@@ -128,12 +128,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BaeKayyy/BaeKayyy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaeKayyy/BaeKayyy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaeKayyy/BaeKayyy/output/pacman-contribution-graph.svg">
@@ -142,6 +136,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/BaeKayyy/BaeKayyy/output/snake.svg" alt="Snake animation" />
+
+###
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
