@@ -83,6 +83,11 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
         <br>TailwindCSS
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+        <br>MongoDB
+    </td>
+
 </tr>
 <tr>
     <td align="center" width="96">
