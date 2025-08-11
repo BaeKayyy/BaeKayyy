@@ -126,13 +126,20 @@
 
 
 
-<img src="https://raw.githubusercontent.com/BaeKayyy/BaeKayyy/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![Faqih Ikhtibar GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeKayyy&show_icons=true&theme=react&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=BaeKayyy&show_icons=true&theme=react&border_radius=10" height="220" alt="github stats" />
+
+  <img src="https://streak-stats.demolab.com?user=BaeKayyy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+
+</div>
+
 
 
 
