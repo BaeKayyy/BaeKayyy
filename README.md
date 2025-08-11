@@ -124,7 +124,7 @@
 
 <hr/>
 
-<p align="left">Play game with me</p>
+<h2 align="left">Play game with me</h2>
 
 ###
 
