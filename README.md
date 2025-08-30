@@ -141,7 +141,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=BaeKayyy&show_icons=true&theme=react&border_radius=10" height="180" alt="github stats" />
   
-  <br/><br/>
 
 
 </div>
