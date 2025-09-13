@@ -42,6 +42,7 @@
 <br/>
 <table align="center">
 
+  <!-- Baris pertama: Frontend (JavaScript stack) -->
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
@@ -64,12 +65,48 @@
         <br>ReactJS
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="threejs" />
+        <br>Three.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+        <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <br>jQuery
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
         <br>NodeJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
         <br>ExpressJS
+    </td>
+  </tr>
+
+  <!-- Baris kedua: Styling, UI, PHP stack -->
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+        <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+        <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+        <br>Prisma
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
@@ -80,16 +117,13 @@
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        <br>TailwindCSS
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+        <br>MongoDB
     </td>
+  </tr>
 
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-        <br>Bootstrap
-    </td>
+  <!-- Baris ketiga: Tools & Bahasa tambahan -->
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
         <br>Figma
@@ -110,7 +144,7 @@
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
         <br>Java
     </td>
-  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
         <br>Golang
     </td>
@@ -118,12 +152,10 @@
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
         <br>Linux
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-        <br>MongoDB
-    </td>
   </tr>
+
 </table>
+
 
 <br/>
 
