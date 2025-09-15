@@ -12,9 +12,7 @@
 
 <img align="right" alt="coding" width="15%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGppd3BucXMxenIzZjR6OG5uZ3IwemZhMTdwMG85aHg1NjdiaWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy_s.gif"/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=faqihikhtibar&label=Profile%20views&color=0e75b6&style=flat" alt="faqihikhtibar" /> 
-</p>
+
  
 👀 I’m interested in coding, design, and creative problem solving.  
 
