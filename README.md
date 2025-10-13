@@ -121,15 +121,9 @@
         <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-        <br>jQuery
-    </td>
-      <tr>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
         <br>Next.js
     </td>
-      </tr>
   </tr>
 
 </table>
