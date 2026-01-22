@@ -42,14 +42,6 @@
 
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
-        <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-        <br>CSS
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
         <br>JavaScript
     </td>
