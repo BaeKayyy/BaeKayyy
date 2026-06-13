@@ -5,5 +5,5 @@ student
 
 ┌──(psvm10v㉿localhost)-[~]
 └─$ cat status.txt
-Still learning...
+Still learning tech...
 ```
